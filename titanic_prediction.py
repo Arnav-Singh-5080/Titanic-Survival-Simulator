@@ -47,7 +47,7 @@ set_bg("Ship_Pic.png")
 # ---------------- MODEL ----------------
 @st.cache_resource
 def load_model():
-    df = pd.read_csv("Titanic-Dataset-Cleaned.csv")
+    df = pd.read_csv("Titanic-Dataset.csv")
     df = df.drop(['PassengerId', 'Name', 'Ticket'], axis=1)
 
     df['Age'].fillna(df['Age'].median(), inplace=True)
