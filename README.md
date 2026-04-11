@@ -1,5 +1,7 @@
 # Titanic Survival Simulator
 
+![Titanic Simulator Demo](Titanic-Simulator.gif)
+
 An interactive machine learning web app that predicts whether a passenger would survive the Titanic disaster based on historical data. The app allows users to simulate different passenger profiles and understand how various factors influence survival probability.
 
 ---
