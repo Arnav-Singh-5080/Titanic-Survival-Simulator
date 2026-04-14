@@ -72,9 +72,9 @@ Passengers with higher class, female gender, and higher fare had better survival
 **Arnav Singh**  
 Machine Learning Enthusiast | Aspiring Data Scientist  
 
-### Email: itsarnav.singh80@gmail.com  
-### LinkedIn: https://www.linkedin.com/in/arnav-singh-a87847351  
-### GitHub: https://github.com/Arnav-Singh-5080  
+#### Email: itsarnav.singh80@gmail.com  
+#### LinkedIn: https://www.linkedin.com/in/arnav-singh-a87847351  
+#### GitHub: https://github.com/Arnav-Singh-5080  
 
 ---
 
